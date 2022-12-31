@@ -7,4 +7,4 @@ A maze is procedurally generated. A minimap is featured in the top right corner 
 
 # Controls
 
-Movement: WASD
+Movement: WASD / Arrow Keys
