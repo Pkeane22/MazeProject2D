@@ -1,6 +1,12 @@
 # MazeProject2D
 
 Unity Editor Version: 2021.1.5f1
+
+# Download
+
+Mac - [Download](https://github.com/Pkeane22/MazeProject2D/raw/main/MazeApp%20-%20Mac.zip)
+
+Windows - [Download](https://github.com/Pkeane22/MazeProject2D/raw/main/MazeApp%20-%20Windows.zip)
  
 # Overview
 
