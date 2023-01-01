@@ -1,4 +1,6 @@
 # MazeProject2D
+
+Unity Editor Version: 2021.1.5f1
  
 # Overview
 
