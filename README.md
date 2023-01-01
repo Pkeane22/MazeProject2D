@@ -16,3 +16,10 @@ A maze is procedurally generated. A minimap is featured in the top right corner 
 # Controls
 
 Movement: WASD / Arrow Keys
+
+
+# Screenshots
+
+<img width="960" alt="Screenshot_20221231_055852" src="https://user-images.githubusercontent.com/61167933/210158565-e2373e44-9544-471d-9f20-a08f4e98ae7d.png">
+<img width="960" alt="Screenshot_20221231_055903" src="https://user-images.githubusercontent.com/61167933/210158566-cabbe9e9-c87c-4bac-b5eb-9537515c178e.png">
+<img width="960" alt="Screenshot_20221231_055924" src="https://user-images.githubusercontent.com/61167933/210158567-b254119b-1e45-4857-98f3-4fa9c61b61d1.png">
